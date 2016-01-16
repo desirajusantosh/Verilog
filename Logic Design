@@ -1,0 +1,19 @@
+Combinational Circuits:
+-Multiplexer
+-De-multiplexer
+-Decoder
+-Priority Encoder
+-Half adder
+-Full adder
+-Ripple carry adder
+-Carry lookahead adder
+-Comparator
+
+Sequential Circuits:
+-SR Latch
+-Generic state machines (eg: T-flipflop using D-flipflop, sequence detectors etc.)
+-Shift register
+-Counter (T flip flop and D flipflop versions)
+-Binary multiplier
+-Simple datapath (more involved)
+-5-stage pipeline (more involved)
